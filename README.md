@@ -3,12 +3,15 @@
 - Initial hypothesis: although the aggregate levels of crime in Memphis have not changed dramatically, the relative densities across neighborhoods have shifted.
 
 Overall crime levels appear steady:
+
 ![Violent Crime](readme_images/violent_crime.png)
 
 However, crime appears to be less concentrated and more diffused across the city. See the 
 comparison below between 2016 and 2022 from the MPD-provided online data mapping tool. This 
 view obscures the increase in crime in certain areas.
+
 ![Crime 2016](readme_images/2016.png)
+
 ![Crime 2022](readme_images/2022.png)
 
 I intend to produce graphics that make more clear the shifts in the location of crime activity 
