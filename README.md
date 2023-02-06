@@ -17,4 +17,7 @@ view obscures the increase in crime in certain areas.
 I intend to produce graphics that make more clear the shifts in the location of crime activity 
 in the city, especially the increases in previously safer areas.
 
-- Datasource: [Memphis Police Department: Public Safety Incidents](https://memphisinternal.data.socrata.com/Public-Safety/Memphis-Police-Department-Public-Safety-Incidents/ybsi-jur4) (downloaded 2/5/2023)
+- Data sources:
+    - [Memphis Police Department: Public Safety Incidents](https://memphisinternal.data.socrata.com/Public-Safety/Memphis-Police-Department-Public-Safety-Incidents/ybsi-jur4) (downloaded 2/5/2023)
+    - [Shelby County Zipcodes](https://data.memphistn.gov/dataset/Shelby-County-Zip-Codes/98jk-gvpk)
+    - [Memphis Police Department Wards](https://data.memphistn.gov/Public-Safety/Memphis-Police-Department-Wards/rqqz-pj4u)
