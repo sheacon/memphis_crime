@@ -4,10 +4,13 @@
 - Data sources:
     - [Memphis Police Department: Public Safety Incidents](https://memphisinternal.data.socrata.com/Public-Safety/Memphis-Police-Department-Public-Safety-Incidents/ybsi-jur4) (downloaded 2/5/2023)
     - [Memphis Police Department Wards](https://data.memphistn.gov/Public-Safety/Memphis-Police-Department-Wards/rqqz-pj4u)
+- Disclaimer: This is a draft analysis that requires more thorough investigation.
+
 
 ![Annual Levels](readme_images/agg_levels.png)
 
+
 ![Change Over Time](readme_images/18_22_map.png)
-- Disclaimer: This is a draft analysis that requires more thorough investigation.
+
 
 
